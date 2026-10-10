@@ -28,8 +28,8 @@ Technology Stack
 
 Explore EcoLeap AI:
 (https://dhanshreepatil27.github.io/EcoLeap-AI/)
-Getting Started
 
+Getting Started
 1. Open or download the repository.
 2. Locate "index.html".
 3. Open the file in a modern web browser.
