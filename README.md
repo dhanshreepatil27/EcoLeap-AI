@@ -25,6 +25,9 @@ Technology Stack
 - Three.js
 - WebGL
 
+
+Explore EcoLeap AI:
+(https://dhanshreepatil27.github.io/EcoLeap-AI/)
 Getting Started
 
 1. Open or download the repository.
